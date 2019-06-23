@@ -1,0 +1,46 @@
+body {
+    background: #fefefe;
+}
+
+
+.sectionHeader {
+    color: #1460AA;
+    font-size: 64px;
+    
+}
+
+.diaryHeader {
+    color: #6c1285;
+    
+}
+
+p {
+    color: blue;
+}
+
+#name{
+    color: red !important;
+}
+
+section h1{
+    color: red;
+}
+
+html body h1{
+    color: red;
+}
+
+#header{
+    color: yellow;
+}
+
+h1{
+    color: yellow;
+}
+
+body main#main h1.heading {
+    color: red;
+    color: blue;
+    
+    }
+
